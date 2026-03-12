@@ -20,7 +20,7 @@ In this simulation, I designed a functional RAM architecture that processes addr
 The following image represents the top-level architecture of the RAM Decoder and the integrated display logic:
 
 <p align="center">
-  <img src="image_f4201b.png" width="800" alt="RAM Decoder Schematic">
+  <img src="Screenshot 2026-03-13 at 01.46.01.png" width="800" alt="RAM Decoder Schematic">
 </p>
 
 ---
